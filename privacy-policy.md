@@ -100,8 +100,8 @@ We may modify this Privacy Policy periodically. Updated versions will be reflect
 
 ## 11. Contact Information
 For questions, support, or privacy-related concerns, please contact:  
-📧 **[support@anesthesiaapp.in](mailto:support@anesthesiaapp.in)**  
-🏥 **Department of Anesthesiology, AIIMS Jodhpur, Rajasthan, India**
+📧 **[contact@webinix.in](mailto:contact@webinix.in)**  
+🏥 **Managed By Webinix(Nexfutrr Solutions Private limited)**
 
 ---
 
